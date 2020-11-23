@@ -1,1 +1,1 @@
-# practiceGit_Reotabata
+# GitHub練習
